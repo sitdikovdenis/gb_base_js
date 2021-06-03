@@ -1,0 +1,24 @@
+.white_cell {
+    background-color: #ffff;
+    border: 1px solid #000;
+    width: 40px;
+    height: 40px;
+}
+
+.black_cell {
+    background-color: #000;
+    width: 40px;
+    height: 40px;
+}
+
+.char_cell {
+    background-color: #ffff;
+    width: 40px;
+    height: 40px;
+    border: 1px double white;
+    text-align: center;
+}
+
+.chess_board_table {
+    border : 1px solid black;
+}
